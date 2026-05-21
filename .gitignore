@@ -1,0 +1,11 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+
+# IDE settings
+.idea/
+
+# Project-specific generated files
+/ai/workflow/
+__pycache__/
+repos/
