@@ -1,5 +1,13 @@
 # agentbox
 
+<p align="center">
+  <img src="./.github/assets/banner.webp" alt="agentbox banner">
+</p>
+
+<p align="center">
+  <a href="https://ghost-who-codes.blog/open-source/agentbox/">Project page on Ghost Who Codes</a>
+</p>
+
 `agentbox` is a workspace-local context manager for independent git repos.
 
 It keeps AI or tool-specific state out of a leaf repo's git history while still making that state available inside the repo through bind mounts.
